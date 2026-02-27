@@ -135,13 +135,11 @@ The notebook generates:
 
 If you add screenshots in a folder called `screenshots/`:
 
-```markdown
-## Forecast Output
+## 📊 Forecast Output
 
-![ARIMA Output](screenshots/output1.png)
-![SARIMA Output](screenshots/output2.png)
-```
+![ARIMA Forecast](screenshots/output1.png)
 
+![SARIMA Forecast](screenshots/output2.png)
 ---
 
 ## 📦 requirements.txt
